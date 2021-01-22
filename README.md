@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My web site: ... [my web page](https://bit.ly/danielkirwa)
+### My web site: ... [my web page](#)
 
 
 
