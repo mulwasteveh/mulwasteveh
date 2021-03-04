@@ -14,7 +14,7 @@
 
 <h3 align="left"> Working on ...</h3>
 
-<a href="https://github.com/mulwasteveh/Tecno_phone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mulwasteveh&repo=Tecno_phone" width=360> </a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/mulwasteveh/Email_slicer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mulwasteveh&repo=Email_slicer" width=360> </a>
+<a href="https://github.com/mulwasteveh/Tecno_phone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mulwasteveh&repo=Tecno_phone" width=360> </a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/mulwasteveh/Snake-game"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mulwasteveh&repo=Snake-game" width=360> </a>
 
 <hr>
 <h3>Technologies that I have worked with<h3>
